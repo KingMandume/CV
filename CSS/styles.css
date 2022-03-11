@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Inconsolata', monospace;
+    margin: 25px auto 0 auto;
+    font-size: 4.300rem;
+    color: #42C2FF;
+}
+
+h2 {
+    font-size: 2.100rem;
+    font-weight: bold;
+    font-family: 'Inconsolata', monospace;
+    color: #42C2FF;
+}
+
+p {
+    font-family: 'Hubballi', cursive;
+    margin-top: 0;
+    font-size: 1.2rem;
+    color: #40514e;
+}
+
+h3 {
+    color: #000000;
+}
+
+a {
+    color: #0d6164;
+}
+
+hr {
+    border-bottom-style: dotted;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    width: 30%;
+    height: 1px;
+    border-color: #686869;
+    border-width: 5px;
+}
+
+.top {
+    background-color: #EFFFFD;
+    position: relative;
+    padding-top: 100px;
+    margin-bottom: 25px;
+}
+
+.nuvem {
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+
+.nuvem2 {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 180px;
+    text-align: left;
+}
+
+.txtPch {
+    line-height: 50px;
+}
+
+.txtJsh {
+    line-height: 25px;
+    text-align: right;
+}
+
+.txtJsp {
+    line-height: 25px;
+    text-align: right;
+}
+
+.pc {
+    width: 25%;
+    float: left;
+    padding-right: 15px;
+}
+
+.JS {
+    width: 25%;
+    float: right;
+    padding-left: 15px;
+}
+
+.contato {
+    margin-bottom: 50px;
+}
+
+.botao {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-style: none;
+}
+
+.botao:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.bot {
+    background-color: #66bfbf;
+    padding: 25px;
+}
+
+.copyright {
+    padding-top: 10px;
+    color: #ffffff;
+}
